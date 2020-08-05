@@ -6,6 +6,10 @@
     <artifactId>MavenWar</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <!--Insert your code here-->
-    
+    <name>create war file</name></url>
+<dependency>
+    <groupId>Junit</groupId>
+    <artifactId>junit</artefactId>
+    <version>3.8.1</version>
     
 </project>  
